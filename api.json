@@ -1,0 +1,91 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Phạm Ngọc Quý",
+      "age": 18,
+      "address": "Thái Nguyên",
+      "image": "image/1234.jpg"
+    },
+    {
+      "address": "Trùng Khánh, Cao Bằng",
+      "name": "Hoàng Duy ꪹ",
+      "age": 17,
+      "id": 2,
+      "image": "image/duy.jpg"
+    },
+    {
+      "address": "Trùng Khánh, Cao Bằng",
+      "name": "Tr V Ninh",
+      "age": 15,
+      "id": 3,
+      "image": "image/ninh.jpg"
+    },
+    {
+      "address": "Trùng Khánh, Cao Bằng",
+      "name": "Lý Quân",
+      "age": 18,
+      "id": 4,
+      "image": "image/quan.jpg"
+    },
+    {
+      "address": "Trùng Khánh, Cao Bằng",
+      "name": "Phương Tiến Khánh",
+      "age": 16,
+      "id": 5,
+      "image": "image/khanh.jpg"
+    },
+    {
+      "address": "Trùng Khánh, Cao Bằng",
+      "name": "Phương Văn Hưởng",
+      "age": 17,
+      "id": 6,
+      "image": "image/huong.jpg"
+    },
+    {
+      "address": "Trùng Khánh, Cao Bằng",
+      "name": "Đỗ Hoàng Linh",
+      "age": 18,
+      "id": 7,
+      "image": "image/linh.jpg"
+    },
+    {
+      "address": "Trùng Khánh, Cao Bằng",
+      "name": "Thư",
+      "age": 15,
+      "id": 8,
+      "image": "image/thu.jpg"
+    },
+    {
+      "address": "Trùng Khánh, Cao Bằng",
+      "name": "Như Quỳnh",
+      "age": 16,
+      "id": 9,
+      "image": "image/quynh.jpg"
+    },
+    {
+      "image": "image/kdao.jpg",
+      "address ": "Cao Bằng",
+      "name": "Bé Xún",
+      "age": 15,
+      "id": 10
+    },
+    {
+      "image": "image/chinh.jpg",
+      "address ": "Cao Bằng",
+      "name": "Nông Đức Chính",
+      "age": 16,
+      "id": 11
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
